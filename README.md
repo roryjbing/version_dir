@@ -6,5 +6,5 @@ repository on GitHub
 This is an extra line of text added to the copy 
 of README.md in the cloned repository
 
-This is a yet another extra line of text added to the copy 
+This is a not yet another extra line of text added to the copy 
 of README.md before pushing to github
